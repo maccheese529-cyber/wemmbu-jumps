@@ -1,0 +1,20 @@
+# My project
+this is a project i made for fun on godot. this is my first time making a none block coding game. I made this game base in the youtuber wemmbu with a doodle of wemmbu cat. he goes up theese purple islands trying to get as high as possible to see far. .
+
+## Installation
+
+On GitHub, open the repository containing the Godot project.
+Click Code → Download ZIP, then unzip the downloaded file.
+
+3. Open it in Godot
+-Open Godot and:
+-Click Import.
+-Find the folder you just unzipped.
+-Select the project folder.
+-Look for a file called project.godot.
+-Select it and click Import & Edit.
+4. Run the game
+Once the project opens, press the ▶ Play button at the top.
+
+## Usage
+you can use wasd to move and space bar to jump. if you dont understand you can also trouble shoot the controls. the arriws on you keybaord are also free to use .
